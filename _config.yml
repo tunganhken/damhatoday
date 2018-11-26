@@ -4,7 +4,7 @@ version: 1.3.0
 author: tunganhken
 author_email: tunganhken@gmail.com
 url: https://tunganhken.github.io
-baseurl: /damhatoday
+baseurl: /de4js
 license: MIT
 
 theme: jekyll-theme-hacker
